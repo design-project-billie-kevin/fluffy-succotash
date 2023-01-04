@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&display=swap');
-/*
-font-family: 'Abel', sans-serif;
-font-family: 'Anton', sans-serif;
-*/
+
+*{
+    background-color: #F0F0F0;
+    font-family: 'Abel', sans-serif;
+}
 
 #logo {
-    width: 105px;
+    width: 60px;
 }
+
+h1, h2, h3{
+    font-family: 'Anton', sans-serif;
+}
+
