@@ -12,4 +12,35 @@
 h1, h2, h3{
     font-family: 'Anton', sans-serif;
 }
+.dotBig {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    display: inline-block;
+    font-family: 'Anton', sans-serif;
+}
+
+#design-dot{
+    background-color: #e6563b;
+}
+
+#develop-dot{
+    background-color: #eb9d3a;
+}
+
+#support-dot{
+    background-color: #7cb06c;
+}
+
+#host-dot{
+    background-color: #00aba9;
+}
 
