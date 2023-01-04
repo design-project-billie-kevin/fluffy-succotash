@@ -12,7 +12,7 @@
 h1, h2, h3{
     font-family: 'Anton', sans-serif;
 }
-.dotBig {
+.dot-big {
     height: 100px;
     width: 100px;
     background-color: white;
@@ -27,20 +27,23 @@ h1, h2, h3{
     display: inline-block;
     font-family: 'Anton', sans-serif;
 }
-
-#design-dot{
+.dot-small {
+    height: 25px;
+    width: 25px;
+}
+.design-dot{
     background-color: #e6563b;
 }
 
-#develop-dot{
+.develop-dot{
     background-color: #eb9d3a;
 }
 
-#support-dot{
+.support-dot{
     background-color: #7cb06c;
 }
 
-#host-dot{
+.host-dot{
     background-color: #00aba9;
 }
 
