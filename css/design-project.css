@@ -46,5 +46,7 @@ h1, h2, h3{
 .host-dot{
     background-color: #00aba9;
 }
-
+.bg-custom-shade{
+    background-color: #e6e6e6;
+}
 
